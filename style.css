@@ -31,19 +31,19 @@ label {
 
 input {
     margin-bottom: 1rem;
-    width: 90%;
-    height: 5ch;
+    width: 50%;
+    height: 8ch;
     background-color: var(--primary-green);
 }
 
 #check-number {
     display: block;
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin: auto;
     background: transparent;
     color: var(--primary-green);
     border-color:var(--primary-green);
     border-width:black;
     padding: 0.5rem;
-    border-radius: 3rem;
+    /* border-radius: 7rem; */
 }
